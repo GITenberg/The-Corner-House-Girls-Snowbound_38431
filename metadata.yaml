@@ -1,0 +1,31 @@
+_repo: The-Corner-House-Girls-Snowbound_38431
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gooch, Thelma
+    gutenberg_agent_id: '32061'
+    url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Brooks
+    gutenberg_agent_id: '9684'
+    url: http://www.gutenberg.org/2009/agents/9684
+description: ''
+gutenberg_issued: '2011-12-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38431'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcsh 'Winter -- Juvenile fiction'
+- !lcc 'PZ'
+title: "The Corner House Girls Snowbound\r\nHow They Went Away, What They Discovered,\
+  \ and How It Ended"
+url: http://www.gutenberg.org/ebooks/38431
